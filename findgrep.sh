@@ -8,3 +8,4 @@ if [ -z "$directory" ]; then
 fi
 find . -type f | xargs grep -nH "$pattern"
 
+echo "complete!"
