@@ -1,4 +1,5 @@
 #!/bin/bash
+#Ver.002
 
 pattern=$1
 directory=$2
